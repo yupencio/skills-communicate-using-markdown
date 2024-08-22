@@ -12,4 +12,11 @@ la siguiente sera la imagen a agregar
 se agrega `codigo`
 ``` javascript
 var v1 = "mensaje importante"
-``` 
+```
+
+agregando lista
+
+- [ ] opcion 1 de la lista
+- [ ] opcion 2 de la lista
+- [ ] opcion 3 de la lista
+- [x] no hay mas opciones
