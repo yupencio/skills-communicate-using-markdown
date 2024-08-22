@@ -7,3 +7,9 @@ este es el mensaje importante que hay que poner al final de la hoja este es la r
 
 la siguiente sera la imagen a agregar
 ![imagen importande del commit](https://octodex.github.com/images/yaktocat.png)
+
+
+se agrega `codigo`
+``` javascript
+var v1 = "mensaje importante"
+``` 
